@@ -1,8 +1,16 @@
-# scripts
+# Scripts
 
-Esta pasta contém a documentação do projeto IA-JOMARO.
+Esta pasta contém ferramentas e automações do sistema IA-JOMARO.
 
-Aqui serão explicados:
-- objetivos
-- decisões técnicas
-- guias de utilização
+## Objetivo
+Criar pequenos programas que ligam o sistema de IA ao mundo real.
+
+## Exemplos futuros
+- Ligação a modelos de IA (OpenAI, Llama, AMÁLIA)
+- Ferramentas de automação
+- Processamento de documentos
+- APIs para agentes
+- Utilitários para testes
+
+## Nota
+Esta pasta será o "motor técnico" do projeto.
