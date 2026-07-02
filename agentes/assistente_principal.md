@@ -1,3 +1,3 @@
-# Assistente Principal
+# Assistente Principal IA-JOMARO
 
-Assistente principal do IA-JOMARO.
+Assistente principal do projeto IA-JOMARO.
